@@ -1,1 +1,4 @@
-Una persona debe pagar $1000 en cuotas. Hacer un programa que le permita ir ingresando el valor de cada cuota (puede pagar cuotas de cualquier valor). Luego de cada pago, el programa debe indicar cuánto le falta pagar. El programa finalizará cuando el usuario haya saldado su deuda.
+Una persona debe pagar $1000 en cuotas.
+Hacer un programa que le permita ir ingresando el valor de cada cuota (puede pagar cuotas de cualquier valor).
+Luego de cada pago, el programa debe indicar cuánto le falta pagar.
+El programa finalizará cuando el usuario haya saldado su deuda.

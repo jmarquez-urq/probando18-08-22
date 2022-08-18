@@ -7,5 +7,7 @@ while deuda > 0:
     print("Resta pagar $", deuda)
 
 print("Deuda saldada!")
+
+# Esto es por si se pagó demás
 if deuda < 0:
     print(f"Se pagaron ${-deuda} demás")
